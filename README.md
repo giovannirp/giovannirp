@@ -2,13 +2,13 @@
 
 Sou natural de Jundiaí – SP, atualmente residindo em São Paulo, com 37 anos de idade e uma trajetória sólida na área de desenvolvimento para plataformas digitais desde 2009.
 
-Sou um [Programador] apaixonado por tecnologia e desenvolvimento.  
+Sou um [Programador, Professor universitário, Instrutor do SENAI e Professor Digital] apaixonado por tecnologia e desenvolvimento.  
 Atualmente, trabalho com [HTML, CSS, JavaScript, PHP, Mysql, SQL, Mongo, Java, Node e outros] e estou sempre em busca de novos desafios e aprendizados.  
 
 ### 📫 Como me encontrar:
-| LinkedIn | YouTube |
-|----------|---------|
-| [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovannirp/) | [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@pessoadev6982) |
+| LinkedIn | YouTube | Udemy |
+|----------|---------|-------|
+| [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovannirp/) | [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@pessoadev6982) | [![Udemy](https://img.shields.io/badge/Udemy-0A0A0A?style=for-the-badge&logo=udemy&logoColor=white)](https://www.udemy.com/user/giovanni-ribeiro-pinto/) |
 
 
 ---
