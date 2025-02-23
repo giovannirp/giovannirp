@@ -3,7 +3,7 @@
 Sou natural de Jundiaí – SP, atualmente residindo em São Paulo, com 37 anos de idade e uma trajetória sólida na área de desenvolvimento para plataformas digitais desde 2009.
 
 Sou um [Programador] apaixonado por tecnologia e desenvolvimento.  
-Atualmente, trabalho com [HTML, CSS, JavaScript, PHP, Java, Node e outros] e estou sempre em busca de novos desafios e aprendizados.  
+Atualmente, trabalho com [HTML, CSS, JavaScript, PHP, Mysql, SQL, Mongo, Java, Node e outros] e estou sempre em busca de novos desafios e aprendizados.  
 
 ### 📫 Como me encontrar:
 | LinkedIn | YouTube |
