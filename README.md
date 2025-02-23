@@ -2,10 +2,12 @@
   <img src="https://github.com/seu-usuario/seu-usuario/blob/main/capa.png" alt="Capa do GitHub" width="100%" />
 </p>
 
-## 👋 Olá! Eu sou [Seu Nome]  
+## 👋 Olá! Eu sou [Giovanni Ribeiro]  
 
-Sou um [sua profissão ou área de atuação] apaixonado por tecnologia e desenvolvimento.  
-Atualmente, trabalho com [tecnologias que você usa] e estou sempre em busca de novos desafios e aprendizados.  
+Sou natural de Jundiaí – SP, atualmente residindo em São Paulo, com 37 anos de idade e uma trajetória sólida na área de desenvolvimento para plataformas digitais desde 2009.
+
+Sou um [Programador] apaixonado por tecnologia e desenvolvimento.  
+Atualmente, trabalho com [HTML, CSS, JavaScript, PHP, Java, Node e outros] e estou sempre em busca de novos desafios e aprendizados.  
 
 ### 📫 Como me encontrar:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil/)  
