@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://github.com/seu-usuario/seu-usuario/blob/main/capa.png" alt="Capa do GitHub" width="100%" />
-</p>
-
 ## 👋 Olá! Eu sou [Giovanni Ribeiro]  
 
 Sou natural de Jundiaí – SP, atualmente residindo em São Paulo, com 37 anos de idade e uma trajetória sólida na área de desenvolvimento para plataformas digitais desde 2009.
@@ -10,7 +6,7 @@ Sou um [Programador] apaixonado por tecnologia e desenvolvimento.
 Atualmente, trabalho com [HTML, CSS, JavaScript, PHP, Java, Node e outros] e estou sempre em busca de novos desafios e aprendizados.  
 
 ### 📫 Como me encontrar:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovannirp/)  
 
 ---
 
@@ -38,11 +34,6 @@ Atualmente, trabalho com [HTML, CSS, JavaScript, PHP, Java, Node e outros] e est
     <td align="center"><img src="https://img.shields.io/badge/UX/UI-FF4088?style=for-the-badge&logo=adobe&logoColor=white"/></td>
   </tr>
 </table>
-
-
-
-🔹 **GitHub Stats:**  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=dark)
 
 ---
 
