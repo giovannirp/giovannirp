@@ -6,7 +6,10 @@ Sou um [Programador] apaixonado por tecnologia e desenvolvimento.
 Atualmente, trabalho com [HTML, CSS, JavaScript, PHP, Java, Node e outros] e estou sempre em busca de novos desafios e aprendizados.  
 
 ### 📫 Como me encontrar:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovannirp/)  
+<a href="https://www.linkedin.com/in/giovannirp/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
 
 ---
 
