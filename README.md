@@ -1,6 +1,6 @@
 ## 👋 Olá! Eu sou [Giovanni Ribeiro]  
 
-Sou natural de Jundiaí – SP, atualmente residindo em São Paulo, com 37 anos de idade e uma trajetória sólida na área de desenvolvimento para plataformas digitais desde 2009.
+Sou natural de Jundiaí – SP, atualmente residindo em São Paulo, com 38 anos de idade e uma trajetória sólida na área de desenvolvimento para plataformas digitais desde 2009.
 
 Sou um [Programador, Professor universitário, Instrutor do SENAI e Professor Digital] apaixonado por tecnologia e desenvolvimento.  
 Atualmente, trabalho com [HTML, CSS, JavaScript, PHP, Mysql, SQL, Mongo, Java, Node e outros] e estou sempre em busca de novos desafios e aprendizados.  
